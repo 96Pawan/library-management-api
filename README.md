@@ -9,7 +9,7 @@ This project is a Django-based API for managing books in a library. It allows us
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/my-django-project.git
+git clone https://github.com/96Pawan/library-management-api.git
 
 ##2. Create a Virtual Environment
 Create a virtual environment for the project:
